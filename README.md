@@ -159,11 +159,11 @@ delay (2000);
 2. Instalar las librerías:
 - **LiquidCrystal I2C**
 
-![](https://github.com/Ricardoramosdelapaz/DHT22-CON-ULTRASONICO-CON-LCD/blob/main/lib%204.PNG?raw=true).
+![](https://github.com/Ricardoramosdelapaz/NIVEL-DE-AGUA-CON-LCD/blob/main/LIBN.PNG?raw=true).
 
 3. Hacer la conexion de **DHT2** con el sensor HC-SR04**, junto con la pantalla LCD y los 4 relays como se muestra en la siguiente imagen.
 
-![](https://github.com/Ricardoramosdelapaz/DHT22-CON-ULTRASONICO-CON-LCD/blob/main/con%204.PNG?raw=true).
+![](https://github.com/Ricardoramosdelapaz/NIVEL-DE-AGUA-CON-LCD/blob/main/CONN.PNG?raw=true).
 
 ### Instrucciónes de operación
 
@@ -175,10 +175,10 @@ delay (2000);
 
 Al iniciar la simulacion, verás los valores dentro del monitor serial y la pantalla LCD y los leds de los relays como se muestra en la siguente imagen.
 
-![](https://github.com/Ricardoramosdelapaz/DHT22-CON-ULTRASONICO-CON-LCD/blob/main/res%204.PNG?raw=true).
-![](https://github.com/Ricardoramosdelapaz/DHT22-CON-ULTRASONICO-CON-LCD/blob/main/res4.1.PNG?raw=true).
-![](https://github.com/Ricardoramosdelapaz/DHT22-CON-ULTRASONICO-CON-LCD/blob/main/res%204.22.PNG?raw=true).
-![](https://github.com/Ricardoramosdelapaz/DHT22-CON-ULTRASONICO-CON-LCD/blob/main/res4.3.PNG?raw=true).
+![](https://github.com/Ricardoramosdelapaz/NIVEL-DE-AGUA-CON-LCD/blob/main/RESN1.PNG?raw=true).
+![](https://github.com/Ricardoramosdelapaz/NIVEL-DE-AGUA-CON-LCD/blob/main/RESN2.PNG?raw=true).
+![](https://github.com/Ricardoramosdelapaz/NIVEL-DE-AGUA-CON-LCD/blob/main/RESN3.PNG?raw=true).
+![](https://github.com/Ricardoramosdelapaz/NIVEL-DE-AGUA-CON-LCD/blob/main/RES%20N4.PNG?raw=true).
 
 
 
